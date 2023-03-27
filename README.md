@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickaigi
 - 👀 I’m interested in Python and Machine Learning
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Python + Django + ReactJS
+- 🌱 I’m currently looking for open source projects to contribute to
+- 💞️ I’m looking to collaborate on Python + Django + Neovim
 - 📫 How to reach me [@nickaigi](https://twitter.com/nickaigi)
 
 <!---
