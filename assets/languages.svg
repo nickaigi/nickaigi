@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="310" viewBox="0 0 480 310" role="img" aria-label="Languages by code size">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#1f2328}
+.muted{fill:#59636e}.track{stroke:#d1d9e0}
+@media (prefers-color-scheme:dark){text{fill:#f0f6fc}.muted{fill:#9198a1}.track{stroke:#3d444d}}
+</style>
+<text x="24" y="36" font-size="18" font-weight="600">Languages by code size</text>
+<circle class="track" cx="110" cy="128" r="68" fill="none" stroke-width="26"/>
+<circle cx="110" cy="128" r="68" fill="none" stroke="#3572A5" stroke-width="26" stroke-dasharray="172.24 255.02" stroke-dashoffset="-0.00" transform="rotate(-90 110 128)"/>
+<circle cx="110" cy="128" r="68" fill="none" stroke="#A97BFF" stroke-width="26" stroke-dasharray="87.57 339.69" stroke-dashoffset="-174.24" transform="rotate(-90 110 128)"/>
+<circle cx="110" cy="128" r="68" fill="none" stroke="#f1e05a" stroke-width="26" stroke-dasharray="46.05 381.21" stroke-dashoffset="-263.81" transform="rotate(-90 110 128)"/>
+<circle cx="110" cy="128" r="68" fill="none" stroke="#8a8a8a" stroke-width="26" stroke-dasharray="28.71 398.54" stroke-dashoffset="-311.86" transform="rotate(-90 110 128)"/>
+<circle cx="110" cy="128" r="68" fill="none" stroke="#3178c6" stroke-width="26" stroke-dasharray="18.89 408.36" stroke-dashoffset="-342.57" transform="rotate(-90 110 128)"/>
+<circle cx="110" cy="128" r="68" fill="none" stroke="#b07219" stroke-width="26" stroke-dasharray="17.78 409.47" stroke-dashoffset="-363.47" transform="rotate(-90 110 128)"/>
+<circle cx="110" cy="128" r="68" fill="none" stroke="#e34c26" stroke-width="26" stroke-dasharray="12.23 415.03" stroke-dashoffset="-383.25" transform="rotate(-90 110 128)"/>
+<circle cx="110" cy="128" r="68" fill="none" stroke="#8b949e" stroke-width="26" stroke-dasharray="27.78 399.48" stroke-dashoffset="-397.48" transform="rotate(-90 110 128)"/>
+<text x="110" y="134" font-size="26" font-weight="700" text-anchor="middle">18</text>
+<text x="110" y="154" font-size="12" text-anchor="middle" class="muted">languages</text>
+<rect x="230" y="71" width="12" height="12" rx="3" fill="#3572A5"/><text x="250" y="82" font-size="14">Python</text><text x="450" y="82" font-size="14" text-anchor="end" class="muted">40.8%</text>
+<rect x="230" y="97" width="12" height="12" rx="3" fill="#A97BFF"/><text x="250" y="108" font-size="14">Kotlin</text><text x="450" y="108" font-size="14" text-anchor="end" class="muted">21.0%</text>
+<rect x="230" y="123" width="12" height="12" rx="3" fill="#f1e05a"/><text x="250" y="134" font-size="14">JavaScript</text><text x="450" y="134" font-size="14" text-anchor="end" class="muted">11.2%</text>
+<rect x="230" y="149" width="12" height="12" rx="3" fill="#8a8a8a"/><text x="250" y="160" font-size="14">C</text><text x="450" y="160" font-size="14" text-anchor="end" class="muted">7.2%</text>
+<rect x="230" y="175" width="12" height="12" rx="3" fill="#3178c6"/><text x="250" y="186" font-size="14">TypeScript</text><text x="450" y="186" font-size="14" text-anchor="end" class="muted">4.9%</text>
+<rect x="230" y="201" width="12" height="12" rx="3" fill="#b07219"/><text x="250" y="212" font-size="14">Java</text><text x="450" y="212" font-size="14" text-anchor="end" class="muted">4.6%</text>
+<rect x="230" y="227" width="12" height="12" rx="3" fill="#e34c26"/><text x="250" y="238" font-size="14">HTML</text><text x="450" y="238" font-size="14" text-anchor="end" class="muted">3.3%</text>
+<rect x="230" y="253" width="12" height="12" rx="3" fill="#8b949e"/><text x="250" y="264" font-size="14">Other</text><text x="450" y="264" font-size="14" text-anchor="end" class="muted">7.0%</text>
+</svg>

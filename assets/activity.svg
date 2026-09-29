@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" viewBox="0 0 480 260" role="img" aria-label="Repositories by last push">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#1f2328}
+.muted{fill:#59636e}.track{stroke:#d1d9e0}
+@media (prefers-color-scheme:dark){text{fill:#f0f6fc}.muted{fill:#9198a1}.track{stroke:#3d444d}}
+</style>
+<text x="24" y="36" font-size="18" font-weight="600">Repositories by last push</text>
+<circle class="track" cx="110" cy="128" r="68" fill="none" stroke-width="26"/>
+<circle cx="110" cy="128" r="68" fill="none" stroke="#3fb950" stroke-width="26" stroke-dasharray="70.95 356.31" stroke-dashoffset="-0.00" transform="rotate(-90 110 128)"/>
+<circle cx="110" cy="128" r="68" fill="none" stroke="#2f81f7" stroke-width="26" stroke-dasharray="8.42 418.84" stroke-dashoffset="-72.95" transform="rotate(-90 110 128)"/>
+<circle cx="110" cy="128" r="68" fill="none" stroke="#d29922" stroke-width="26" stroke-dasharray="112.63 314.63" stroke-dashoffset="-83.37" transform="rotate(-90 110 128)"/>
+<circle cx="110" cy="128" r="68" fill="none" stroke="#8b949e" stroke-width="26" stroke-dasharray="227.26 200.00" stroke-dashoffset="-198.00" transform="rotate(-90 110 128)"/>
+<text x="110" y="134" font-size="26" font-weight="700" text-anchor="middle">41</text>
+<text x="110" y="154" font-size="12" text-anchor="middle" class="muted">original repos</text>
+<rect x="230" y="71" width="12" height="12" rx="3" fill="#3fb950"/><text x="250" y="82" font-size="14">Last 3 months</text><text x="450" y="82" font-size="14" text-anchor="end" class="muted">17.1%</text>
+<rect x="230" y="97" width="12" height="12" rx="3" fill="#2f81f7"/><text x="250" y="108" font-size="14">3 to 12 months</text><text x="450" y="108" font-size="14" text-anchor="end" class="muted">2.4%</text>
+<rect x="230" y="123" width="12" height="12" rx="3" fill="#d29922"/><text x="250" y="134" font-size="14">1 to 3 years</text><text x="450" y="134" font-size="14" text-anchor="end" class="muted">26.8%</text>
+<rect x="230" y="149" width="12" height="12" rx="3" fill="#8b949e"/><text x="250" y="160" font-size="14">Over 3 years</text><text x="450" y="160" font-size="14" text-anchor="end" class="muted">53.7%</text>
+</svg>
